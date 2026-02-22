@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	utils "github.com/casibase/go-openrouter/internal"
+	utils "github.com/hanzoai/go-openrouter/internal"
 	"io"
 	"net/http"
 )
