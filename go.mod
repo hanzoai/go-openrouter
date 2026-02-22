@@ -1,3 +1,3 @@
-module github.com/casibase/go-openrouter
+module github.com/hanzoai/go-openrouter
 
 go 1.19
