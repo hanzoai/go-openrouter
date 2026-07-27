@@ -1,3 +1,3 @@
 module github.com/hanzoai/go-openrouter
 
-go 1.19
+go 1.26.5
